@@ -1,2 +1,3 @@
 # JanataHack: Mobility Analytics
-Accuracy Score: 0.69
+XGBoost, Accuracy Score: 0.71
+Logistic Regression, Accuracy Score: 0.69
