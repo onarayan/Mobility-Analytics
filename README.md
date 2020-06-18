@@ -1,5 +1,5 @@
 # Mobility Analytics (Dataset from JanataHack)
-Mobility plays a dynamic role in connecting people and keep the economy running.
+Mobility plays a dynamic role in connecting people and curcial for the businesses.
 Passengers want to move from A to B as comfortable as possible. The quality of service as well as operational efficiency can have a huge impact on gaining customer satisfaction. The analysis of mobility data can provide meaningful insights and help solve the challenges.
 
 Mobility Analytics is being used by many ride-sharing companies like Uber, lyft to improve passenger's riding experience and make it efficient by means of digital technologies. 
